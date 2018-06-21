@@ -1,6 +1,6 @@
 # Урок по созданию адаптивного сайта для оценочной компании "Юрдис" #
 #### Сайт для оценочной компании "Юрдис" ####
-Сайт проекта: [S&Mitler](http://adel-ismagilov.ru/lessons/s&mitler/)
+Сайт проекта: [Юрдис](http://adel-ismagilov.ru/lessons/urdis/)
 ##### В проекте использовались: #####
 1. Task manager: [Gulp](https://gulpjs.com/)
 2. CSS preproccessor: [SASS](http://sass-lang.com/)
